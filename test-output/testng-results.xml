@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[SignIn Action is successfully perfomred]]>
+    </line>
+    <line>
+      <![CDATA[Verification Passed for Product Name on Check Out page.]]>
+    </line>
+    <line>
+      <![CDATA[Verification Passed for Product Price on Check Out page.]]>
+    </line>
+    <line>
+      <![CDATA[Payment is successfully perfromed for the purchased product.]]>
+    </line>
+    <line>
+      <![CDATA[Verification Passed for Product Name on Confirmation page]]>
+    </line>
+    <line>
+      <![CDATA[Verification Passed for Product Price on Confirmation page]]>
+    </line>
+    <line>
+      <![CDATA[Verification Passed for Product Name]]>
+    </line>
+    <line>
+      <![CDATA[Verification Passed for Product Price]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88203" started-at="2015-11-02T22:51:16Z" finished-at="2015-11-02T22:52:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88203" started-at="2015-11-02T22:51:16Z" finished-at="2015-11-02T22:52:44Z">
+      <class name="test.java.testCases.TestFramework_001">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.java.testCases.TestFramework_001@7c75222b]" name="beforeMethod" is-config="true" duration-ms="24513" started-at="2015-11-02T17:51:16Z" finished-at="2015-11-02T17:51:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:test.java.testCases.TestFramework_001@7c75222b]" name="main" duration-ms="63644" started-at="2015-11-02T17:51:40Z" finished-at="2015-11-02T17:52:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SignIn Action is successfully perfomred]]>
+            </line>
+            <line>
+              <![CDATA[Verification Passed for Product Name on Check Out page.]]>
+            </line>
+            <line>
+              <![CDATA[Verification Passed for Product Price on Check Out page.]]>
+            </line>
+            <line>
+              <![CDATA[Payment is successfully perfromed for the purchased product.]]>
+            </line>
+            <line>
+              <![CDATA[Verification Passed for Product Name on Confirmation page]]>
+            </line>
+            <line>
+              <![CDATA[Verification Passed for Product Price on Confirmation page]]>
+            </line>
+            <line>
+              <![CDATA[Verification Passed for Product Name]]>
+            </line>
+            <line>
+              <![CDATA[Verification Passed for Product Price]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.java.testCases.TestFramework_001@7c75222b]" name="afterMethod" is-config="true" duration-ms="22" started-at="2015-11-02T17:52:44Z" finished-at="2015-11-02T17:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.java.testCases.TestFramework_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

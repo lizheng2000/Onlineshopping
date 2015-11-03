@@ -1,0 +1,452 @@
+2015-11-02 12:05:43,731 INFO u.Log [main] ****************************************************************************************
+2015-11-02 12:05:43,732 INFO u.Log [main] ****************************************************************************************
+2015-11-02 12:05:43,732 INFO u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 12:05:43,732 INFO u.Log [main] ****************************************************************************************
+2015-11-02 12:05:43,732 INFO u.Log [main] ****************************************************************************************
+2015-11-02 12:05:44,295 INFO u.Log [main] Excel sheet opened
+2015-11-02 12:05:44,296 INFO u.Log [main] Total number of Row used return as < 2 >.
+2015-11-02 12:05:47,143 INFO u.Log [main] New driver instantiated
+2015-11-02 12:05:49,101 INFO u.Log [main] Implicit wait applied on the driver for 10 seconds
+2015-11-02 12:05:53,062 INFO u.Log [main] Web application launched successfully
+2015-11-02 12:05:53,122 INFO u.Log [main] My Account link is found on the Home Page
+2015-11-02 12:05:55,374 INFO u.Log [main] Click action is perfromed on My Account link
+2015-11-02 12:05:55,403 INFO u.Log [main] Username text box is found on the Login Page
+2015-11-02 12:05:55,477 INFO u.Log [main] richardli1981@gmail.com is entered in UserName text box
+2015-11-02 12:05:55,495 INFO u.Log [main] Password text box is found on the Login page
+2015-11-02 12:05:55,556 INFO u.Log [main] Ethoca@Richard is entered in Password text box
+2015-11-02 12:05:55,569 INFO u.Log [main] Submit button is found on the Login page
+2015-11-02 12:05:55,738 INFO u.Log [main] Click action is performed on Submit button
+2015-11-02 12:05:57,818 INFO u.Log [main] Log Out link is found on the Home Page
+2015-11-02 12:05:58,746 INFO u.Log [main] Product category link is found under Top Navigation
+2015-11-02 12:05:59,023 INFO u.Log [main] iMacs link is found under Product Category
+2015-11-02 12:05:59,097 INFO u.Log [main] Click action is performed on the selected Product Type
+2015-11-02 12:05:59,098 INFO u.Log [main] Product Type iMacs is selected from the Top menu
+2015-11-02 12:06:02,466 INFO u.Log [main] Add to Cart button is found for Product 1
+2015-11-02 12:06:02,555 INFO u.Log [main] Product 1 is selected from the Product listing page
+2015-11-02 12:06:24,566 INFO u.Log [main] Go to Cart button is not found on the Cart Pop Up window
+2015-11-02 12:06:24,920 ERROR u.Log [main] Unable to locate element: {"method":"xpath","selector":".//*[@id='fancy_notification_content']/a[1]"}
+Command duration or timeout: 21.99 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:55:52'
+System info: host: 'Richard', ip: '192.168.138.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2c47e15b-49ec-4197-905c-432bb0a95190
+*** Element info: {Using=xpath, value=.//*[@id='fancy_notification_content']/a[1]}
+2015-11-02 12:06:24,943 INFO u.Log [main] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2015-11-02 12:06:24,945 INFO u.Log [main] X
+2015-11-02 12:06:24,946 INFO u.Log [main] X
+2015-11-02 12:06:24,946 INFO u.Log [main] X
+2015-11-02 12:06:24,947 INFO u.Log [main] X
+2015-11-02 16:20:14,162 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:20:14,163 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:20:14,164 INFO u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 16:20:14,164 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:20:14,164 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:20:14,786 INFO u.Log [main] Excel sheet opened
+2015-11-02 16:20:14,786 INFO u.Log [main] Total number of Row used return as < 2 >.
+2015-11-02 16:20:19,292 INFO u.Log [main] New driver instantiated
+2015-11-02 16:20:33,002 INFO u.Log [main] Implicit wait applied on the driver for 10 seconds
+2015-11-02 16:20:33,061 INFO u.Log [main] Web application launched successfully
+2015-11-02 16:20:45,031 INFO u.Log [main] My Account link is found on the Home Page
+2015-11-02 16:20:45,157 INFO u.Log [main] Click action is perfromed on My Account link
+2015-11-02 16:20:50,579 INFO u.Log [main] Username text box is found on the Login Page
+2015-11-02 16:20:50,839 INFO u.Log [main] richardli1981@gmail.com is entered in UserName text box
+2015-11-02 16:20:50,853 INFO u.Log [main] Password text box is found on the Login page
+2015-11-02 16:20:50,963 INFO u.Log [main] Ethoca@Richard is entered in Password text box
+2015-11-02 16:20:50,974 INFO u.Log [main] Submit button is found on the Login page
+2015-11-02 16:20:51,155 INFO u.Log [main] Click action is performed on Submit button
+2015-11-02 16:20:58,552 INFO u.Log [main] Log Out link is found on the Home Page
+2015-11-02 16:21:02,764 INFO u.Log [main] Product category link is found under Top Navigation
+2015-11-02 16:21:02,969 INFO u.Log [main] iMacs link is found under Product Category
+2015-11-02 16:21:03,090 INFO u.Log [main] Click action is performed on the selected Product Type
+2015-11-02 16:21:03,091 INFO u.Log [main] Product Type iMacs is selected from the Top menu
+2015-11-02 16:21:09,864 INFO u.Log [main] Add to Cart button is found for Product 1
+2015-11-02 16:21:09,971 INFO u.Log [main] Product 1 is selected from the Product listing page
+2015-11-02 16:21:45,766 INFO u.Log [main] Go to Cart button is not found on the Cart Pop Up window
+2015-11-02 16:21:46,166 ERROR u.Log [main] Unable to locate element: {"method":"xpath","selector":".//*[@id='fancy_notification_content']/a[1]"}
+Command duration or timeout: 35.78 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:55:52'
+System info: host: 'Richard', ip: '192.168.138.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ee5555f0-e12f-4147-ae92-1cc1a833a012
+*** Element info: {Using=xpath, value=.//*[@id='fancy_notification_content']/a[1]}
+2015-11-02 16:21:46,185 INFO u.Log [main] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2015-11-02 16:21:46,186 INFO u.Log [main] X
+2015-11-02 16:21:46,186 INFO u.Log [main] X
+2015-11-02 16:21:46,187 INFO u.Log [main] X
+2015-11-02 16:21:46,187 INFO u.Log [main] X
+2015-11-02 16:25:37,894 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:25:37,895 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:25:37,896 INFO u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 16:25:37,896 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:25:37,896 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:25:38,652 INFO u.Log [main] Excel sheet opened
+2015-11-02 16:25:38,653 INFO u.Log [main] Total number of Row used return as < 2 >.
+2015-11-02 16:25:42,751 INFO u.Log [main] New driver instantiated
+2015-11-02 16:26:04,305 INFO u.Log [main] Implicit wait applied on the driver for 10 seconds
+2015-11-02 16:26:08,510 INFO u.Log [main] Web application launched successfully
+2015-11-02 16:26:08,667 INFO u.Log [main] My Account link is found on the Home Page
+2015-11-02 16:26:14,728 INFO u.Log [main] Click action is perfromed on My Account link
+2015-11-02 16:26:14,752 INFO u.Log [main] Username text box is found on the Login Page
+2015-11-02 16:26:14,951 INFO u.Log [main] richardli1981@gmail.com is entered in UserName text box
+2015-11-02 16:26:14,963 INFO u.Log [main] Password text box is found on the Login page
+2015-11-02 16:26:15,038 INFO u.Log [main] Ethoca@Richard is entered in Password text box
+2015-11-02 16:26:15,052 INFO u.Log [main] Submit button is found on the Login page
+2015-11-02 16:26:15,182 INFO u.Log [main] Click action is performed on Submit button
+2015-11-02 16:26:21,959 INFO u.Log [main] Log Out link is found on the Home Page
+2015-11-02 16:26:25,098 INFO u.Log [main] Product category link is found under Top Navigation
+2015-11-02 16:26:25,232 INFO u.Log [main] iMacs link is found under Product Category
+2015-11-02 16:26:25,318 INFO u.Log [main] Click action is performed on the selected Product Type
+2015-11-02 16:26:25,319 INFO u.Log [main] Product Type iMacs is selected from the Top menu
+2015-11-02 16:26:31,383 INFO u.Log [main] Add to Cart button is found for Product 1
+2015-11-02 16:26:31,568 INFO u.Log [main] Product 1 is selected from the Product listing page
+2015-11-02 16:27:05,906 INFO u.Log [main] Go to Cart button is not found on the Cart Pop Up window
+2015-11-02 16:27:06,256 ERROR u.Log [main] Unable to locate element: {"method":"xpath","selector":".//*[@id='fancy_notification_content']/a[1]"}
+Command duration or timeout: 34.31 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:55:52'
+System info: host: 'Richard', ip: '192.168.138.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c98bfd79-58a7-4c0c-815e-6888837a6fa6
+*** Element info: {Using=xpath, value=.//*[@id='fancy_notification_content']/a[1]}
+2015-11-02 16:27:06,280 INFO u.Log [main] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2015-11-02 16:27:06,281 INFO u.Log [main] X
+2015-11-02 16:27:06,282 INFO u.Log [main] X
+2015-11-02 16:27:06,282 INFO u.Log [main] X
+2015-11-02 16:27:06,283 INFO u.Log [main] X
+2015-11-02 16:36:45,795 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:36:45,796 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:36:45,796 INFO u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 16:36:45,797 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:36:45,797 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:36:46,429 INFO u.Log [main] Excel sheet opened
+2015-11-02 16:36:46,430 INFO u.Log [main] Total number of Row used return as < 2 >.
+2015-11-02 16:36:51,122 INFO u.Log [main] New driver instantiated
+2015-11-02 16:37:02,011 INFO u.Log [main] Implicit wait applied on the driver for 10 seconds
+2015-11-02 16:37:02,171 INFO u.Log [main] Web application launched successfully
+2015-11-02 16:37:06,090 INFO u.Log [main] My Account link is found on the Home Page
+2015-11-02 16:37:11,470 INFO u.Log [main] Click action is perfromed on My Account link
+2015-11-02 16:37:11,494 INFO u.Log [main] Username text box is found on the Login Page
+2015-11-02 16:37:11,644 INFO u.Log [main] richardli1981@gmail.com is entered in UserName text box
+2015-11-02 16:37:11,709 INFO u.Log [main] Password text box is found on the Login page
+2015-11-02 16:37:11,804 INFO u.Log [main] Ethoca@Richard is entered in Password text box
+2015-11-02 16:37:11,820 INFO u.Log [main] Submit button is found on the Login page
+2015-11-02 16:37:11,968 INFO u.Log [main] Click action is performed on Submit button
+2015-11-02 16:37:18,938 INFO u.Log [main] Log Out link is found on the Home Page
+2015-11-02 16:37:22,299 INFO u.Log [main] Product category link is found under Top Navigation
+2015-11-02 16:37:22,575 INFO u.Log [main] iMacs link is found under Product Category
+2015-11-02 16:37:22,677 INFO u.Log [main] Click action is performed on the selected Product Type
+2015-11-02 16:37:22,677 INFO u.Log [main] Product Type iMacs is selected from the Top menu
+2015-11-02 16:37:28,609 INFO u.Log [main] Add to Cart button is found for Product 1
+2015-11-02 16:37:28,929 INFO u.Log [main] Product 1 is selected from the Product listing page
+2015-11-02 16:37:46,847 INFO u.Log [main] Go to Cart button is found on the Cart Pop Up window
+2015-11-02 16:38:06,712 ERROR u.Log [main] Price for purchased product on Check Out page is not found
+2015-11-02 16:38:07,891 ERROR u.Log [main] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:55:52'
+System info: host: 'Richard', ip: '192.168.138.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: FirefoxDriver
+2015-11-02 16:38:07,897 INFO u.Log [main] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2015-11-02 16:38:07,898 INFO u.Log [main] X
+2015-11-02 16:38:07,898 INFO u.Log [main] X
+2015-11-02 16:38:07,900 INFO u.Log [main] X
+2015-11-02 16:38:07,901 INFO u.Log [main] X
+2015-11-02 16:42:17,935 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:42:17,936 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:42:17,936 INFO u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 16:42:17,936 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:42:17,936 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:42:18,681 INFO u.Log [main] Excel sheet opened
+2015-11-02 16:42:18,682 INFO u.Log [main] Total number of Row used return as < 2 >.
+2015-11-02 16:42:22,329 INFO u.Log [main] New driver instantiated
+2015-11-02 16:42:25,008 INFO u.Log [main] Maximize the browser window
+2015-11-02 16:42:25,056 INFO u.Log [main] Implicit wait applied on the driver for 10 seconds
+2015-11-02 16:42:38,930 INFO u.Log [main] Web application launched successfully
+2015-11-02 16:42:39,083 INFO u.Log [main] My Account link is found on the Home Page
+2015-11-02 16:42:39,213 INFO u.Log [main] Click action is perfromed on My Account link
+2015-11-02 16:42:45,583 INFO u.Log [main] Username text box is found on the Login Page
+2015-11-02 16:42:45,691 INFO u.Log [main] richardli1981@gmail.com is entered in UserName text box
+2015-11-02 16:42:45,710 INFO u.Log [main] Password text box is found on the Login page
+2015-11-02 16:42:45,779 INFO u.Log [main] Ethoca@Richard is entered in Password text box
+2015-11-02 16:42:45,788 INFO u.Log [main] Submit button is found on the Login page
+2015-11-02 16:42:45,907 INFO u.Log [main] Click action is performed on Submit button
+2015-11-02 16:42:52,965 INFO u.Log [main] Log Out link is found on the Home Page
+2015-11-02 16:42:55,876 INFO u.Log [main] Product category link is found under Top Navigation
+2015-11-02 16:42:56,058 INFO u.Log [main] iMacs link is found under Product Category
+2015-11-02 16:42:56,137 INFO u.Log [main] Click action is performed on the selected Product Type
+2015-11-02 16:42:56,137 INFO u.Log [main] Product Type iMacs is selected from the Top menu
+2015-11-02 16:43:00,028 INFO u.Log [main] Add to Cart button is found for Product 1
+2015-11-02 16:43:00,175 INFO u.Log [main] Product 1 is selected from the Product listing page
+2015-11-02 16:43:00,200 INFO u.Log [main] Go to Cart button is found on the Cart Pop Up window
+2015-11-02 16:43:20,338 ERROR u.Log [main] Price for purchased product on Check Out page is not found
+2015-11-02 16:43:20,774 ERROR u.Log [main] Unable to locate element: {"method":"xpath","selector":".//*[@id='checkout_page_container']/div[1]/table/tbody/tr[2]/td[2]/a"}
+Command duration or timeout: 20.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:55:52'
+System info: host: 'Richard', ip: '192.168.138.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 83f11e6b-e557-4fe8-abf4-bb345ab6b990
+*** Element info: {Using=xpath, value=.//*[@id='checkout_page_container']/div[1]/table/tbody/tr[2]/td[2]/a}
+2015-11-02 16:43:20,784 INFO u.Log [main] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2015-11-02 16:43:20,789 INFO u.Log [main] X
+2015-11-02 16:43:20,790 INFO u.Log [main] X
+2015-11-02 16:43:20,791 INFO u.Log [main] X
+2015-11-02 16:43:20,792 INFO u.Log [main] X
+2015-11-02 16:45:45,317 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:45:45,318 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:45:45,319 INFO u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 16:45:45,319 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:45:45,319 INFO u.Log [main] ****************************************************************************************
+2015-11-02 16:45:45,941 INFO u.Log [main] Excel sheet opened
+2015-11-02 16:45:45,942 INFO u.Log [main] Total number of Row used return as < 2 >.
+2015-11-02 16:45:49,982 INFO u.Log [main] New driver instantiated
+2015-11-02 16:46:12,890 INFO u.Log [main] Maximize the browser window
+2015-11-02 16:46:12,938 INFO u.Log [main] Implicit wait applied on the driver for 10 seconds
+2015-11-02 16:46:26,868 INFO u.Log [main] Web application launched successfully
+2015-11-02 16:46:26,929 INFO u.Log [main] My Account link is found on the Home Page
+2015-11-02 16:46:32,138 INFO u.Log [main] Click action is perfromed on My Account link
+2015-11-02 16:46:32,186 INFO u.Log [main] Username text box is found on the Login Page
+2015-11-02 16:46:32,348 INFO u.Log [main] richardli1981@gmail.com is entered in UserName text box
+2015-11-02 16:46:32,368 INFO u.Log [main] Password text box is found on the Login page
+2015-11-02 16:46:32,536 INFO u.Log [main] Ethoca@Richard is entered in Password text box
+2015-11-02 16:46:32,560 INFO u.Log [main] Submit button is found on the Login page
+2015-11-02 16:46:32,735 INFO u.Log [main] Click action is performed on Submit button
+2015-11-02 16:46:39,492 INFO u.Log [main] Log Out link is found on the Home Page
+2015-11-02 16:46:42,478 INFO u.Log [main] Product category link is found under Top Navigation
+2015-11-02 16:46:42,621 INFO u.Log [main] iMacs link is found under Product Category
+2015-11-02 16:46:42,751 INFO u.Log [main] Click action is performed on the selected Product Type
+2015-11-02 16:46:42,751 INFO u.Log [main] Product Type iMacs is selected from the Top menu
+2015-11-02 16:46:50,154 INFO u.Log [main] Add to Cart button is found for Product 1
+2015-11-02 16:46:50,300 INFO u.Log [main] Product 1 is selected from the Product listing page
+2015-11-02 16:46:52,168 INFO u.Log [main] Go to Cart button is found on the Cart Pop Up window
+2015-11-02 16:46:59,548 INFO u.Log [main] Product Name for purchased product is found on the Check Out Page
+2015-11-02 16:46:59,780 INFO u.Log [main] Product Price for purchased product is found on the Check Out Page
+2015-11-02 16:46:59,859 INFO u.Log [main] Continue button is found on the Check Out Page
+2015-11-02 16:46:59,949 INFO u.Log [main] Email text box on Payment Details page is found.
+2015-11-02 16:47:02,814 INFO u.Log [main] Email text box on Payment Details page is found.
+2015-11-02 16:47:03,067 INFO u.Log [main] tooolsqa@gmail.com is entered as First Name on the Payment detail page
+2015-11-02 16:47:03,497 INFO u.Log [main] First Name text box on Payment Details page is found.
+2015-11-02 16:47:03,622 INFO u.Log [main] First Name text box on Payment Details page is found.
+2015-11-02 16:47:03,683 INFO u.Log [main] Akshay is entered as First Name on the Payment detail page
+2015-11-02 16:47:03,698 INFO u.Log [main] Last Name text box on Payment Details page is found.
+2015-11-02 16:47:03,759 INFO u.Log [main] Last Name text box on Payment Details page is found.
+2015-11-02 16:47:03,816 INFO u.Log [main] Sharma is entered as Last Name on the Payment detail page
+2015-11-02 16:47:03,832 INFO u.Log [main] Address text box on Payment Details page is found.
+2015-11-02 16:47:03,952 INFO u.Log [main] Address text box on Payment Details page is found.
+2015-11-02 16:47:04,042 INFO u.Log [main] 22, LimeSquare, City Road is entered as Address on the Payment detail page
+2015-11-02 16:47:04,057 INFO u.Log [main] City text box on Payment Details page is found.
+2015-11-02 16:47:04,114 INFO u.Log [main] City text box on Payment Details page is found.
+2015-11-02 16:47:04,159 INFO u.Log [main] Newcastle is entered as City on the Payment detail page
+2015-11-02 16:47:04,186 INFO u.Log [main] Country dropdown on Payment Details page is found.
+2015-11-02 16:47:04,391 INFO u.Log [main] United Kingdom is Selected as Country on the Payment detail page
+2015-11-02 16:47:04,407 INFO u.Log [main] Phone text box on Payment Details page is found.
+2015-11-02 16:47:04,447 INFO u.Log [main] Phone text box on Payment Details page is found.
+2015-11-02 16:47:04,489 INFO u.Log [main] 07777777777 is entered as Phone on the Payment detail page
+2015-11-02 16:47:04,498 INFO u.Log [main] Same as Billing address check box on Payment Details page is found.
+2015-11-02 16:47:04,516 INFO u.Log [main] Same as Billing address check box on Payment Details page is found.
+2015-11-02 16:47:04,634 INFO u.Log [main] Same as Billing address check box is selected on the Payment detail page
+2015-11-02 16:47:04,715 INFO u.Log [main] Purchase button on Payment Details page is found.
+2015-11-02 16:47:14,929 INFO u.Log [main] Click action is performed on Purchase button on the Payment detail page
+2015-11-02 16:47:15,003 INFO u.Log [main] Product name is found on the Confirmation Page
+2015-11-02 16:47:15,125 INFO u.Log [main] Product price is found on the Confirmation Page
+2015-11-02 16:47:15,573 ERROR u.Log [main] Test Case Failed because of Verification
+2015-11-02 16:47:15,579 INFO u.Log [main] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2015-11-02 16:47:15,581 INFO u.Log [main] X
+2015-11-02 16:47:15,581 INFO u.Log [main] X
+2015-11-02 16:47:15,587 INFO u.Log [main] X
+2015-11-02 16:47:15,588 INFO u.Log [main] X
+2015-11-02 17:37:59,540 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:37:59,541 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:37:59,541 INFO t.j.u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 17:37:59,541 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:37:59,541 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:38:35,806 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:38:35,807 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:38:35,807 INFO t.j.u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 17:38:35,807 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:38:35,808 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:40:14,590 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:40:14,591 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:40:14,591 INFO t.j.u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 17:40:14,591 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:40:14,592 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:42:25,010 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:42:25,011 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:42:25,012 INFO t.j.u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 17:42:25,012 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:42:25,012 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:48:22,175 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:48:22,177 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:48:22,177 INFO t.j.u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 17:48:22,178 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:48:22,178 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:51:16,633 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:51:16,635 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:51:16,635 INFO t.j.u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 17:51:16,635 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:51:16,635 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:51:16,856 INFO t.j.u.Log [main] Excel sheet opened
+2015-11-02 17:51:16,856 INFO t.j.u.Log [main] Total number of Row used return as < 2 >.
+2015-11-02 17:51:20,780 INFO t.j.u.Log [main] New driver instantiated
+2015-11-02 17:51:26,536 INFO t.j.u.Log [main] Maximize the browser window
+2015-11-02 17:51:27,477 INFO t.j.u.Log [main] Implicit wait applied on the driver for 10 seconds
+2015-11-02 17:51:40,633 INFO t.j.u.Log [main] Web application launched successfully
+2015-11-02 17:51:40,787 INFO t.j.u.Log [main] My Account link is found on the Home Page
+2015-11-02 17:51:40,893 INFO t.j.u.Log [main] Click action is perfromed on My Account link
+2015-11-02 17:51:47,064 INFO t.j.u.Log [main] Username text box is found on the Login Page
+2015-11-02 17:51:47,200 INFO t.j.u.Log [main] richardli1981@gmail.com is entered in UserName text box
+2015-11-02 17:51:47,216 INFO t.j.u.Log [main] Password text box is found on the Login page
+2015-11-02 17:51:47,287 INFO t.j.u.Log [main] Ethoca@Richard is entered in Password text box
+2015-11-02 17:51:47,301 INFO t.j.u.Log [main] Submit button is found on the Login page
+2015-11-02 17:51:47,460 INFO t.j.u.Log [main] Click action is performed on Submit button
+2015-11-02 17:51:55,003 INFO t.j.u.Log [main] Log Out link is found on the Home Page
+2015-11-02 17:51:58,647 INFO t.j.u.Log [main] Product category link is found under Top Navigation
+2015-11-02 17:51:58,767 INFO t.j.u.Log [main] iMacs link is found under Product Category
+2015-11-02 17:51:58,850 INFO t.j.u.Log [main] Click action is performed on the selected Product Type
+2015-11-02 17:51:58,850 INFO t.j.u.Log [main] Product Type iMacs is selected from the Top menu
+2015-11-02 17:52:06,862 INFO t.j.u.Log [main] Add to Cart button is found for Product 1
+2015-11-02 17:52:16,427 INFO t.j.u.Log [main] Product 1 is selected from the Product listing page
+2015-11-02 17:52:16,464 INFO t.j.u.Log [main] Go to Cart button is found on the Cart Pop Up window
+2015-11-02 17:52:23,582 INFO t.j.u.Log [main] Product Name for purchased product is found on the Check Out Page
+2015-11-02 17:52:23,626 INFO t.j.u.Log [main] Product Price for purchased product is found on the Check Out Page
+2015-11-02 17:52:23,681 INFO t.j.u.Log [main] Continue button is found on the Check Out Page
+2015-11-02 17:52:23,804 INFO t.j.u.Log [main] Email text box on Payment Details page is found.
+2015-11-02 17:52:26,938 INFO t.j.u.Log [main] Email text box on Payment Details page is found.
+2015-11-02 17:52:27,076 INFO t.j.u.Log [main] tooolsqa@gmail.com is entered as First Name on the Payment detail page
+2015-11-02 17:52:27,092 INFO t.j.u.Log [main] First Name text box on Payment Details page is found.
+2015-11-02 17:52:27,163 INFO t.j.u.Log [main] First Name text box on Payment Details page is found.
+2015-11-02 17:52:27,213 INFO t.j.u.Log [main] Akshay is entered as First Name on the Payment detail page
+2015-11-02 17:52:27,226 INFO t.j.u.Log [main] Last Name text box on Payment Details page is found.
+2015-11-02 17:52:27,287 INFO t.j.u.Log [main] Last Name text box on Payment Details page is found.
+2015-11-02 17:52:27,337 INFO t.j.u.Log [main] Sharma is entered as Last Name on the Payment detail page
+2015-11-02 17:52:27,351 INFO t.j.u.Log [main] Address text box on Payment Details page is found.
+2015-11-02 17:52:27,445 INFO t.j.u.Log [main] Address text box on Payment Details page is found.
+2015-11-02 17:52:27,509 INFO t.j.u.Log [main] 22, LimeSquare, City Road is entered as Address on the Payment detail page
+2015-11-02 17:52:27,521 INFO t.j.u.Log [main] City text box on Payment Details page is found.
+2015-11-02 17:52:27,571 INFO t.j.u.Log [main] City text box on Payment Details page is found.
+2015-11-02 17:52:27,611 INFO t.j.u.Log [main] Newcastle is entered as City on the Payment detail page
+2015-11-02 17:52:27,641 INFO t.j.u.Log [main] Country dropdown on Payment Details page is found.
+2015-11-02 17:52:27,688 INFO t.j.u.Log [main] United Kingdom is Selected as Country on the Payment detail page
+2015-11-02 17:52:27,696 INFO t.j.u.Log [main] Phone text box on Payment Details page is found.
+2015-11-02 17:52:27,743 INFO t.j.u.Log [main] Phone text box on Payment Details page is found.
+2015-11-02 17:52:27,782 INFO t.j.u.Log [main] 07777777777 is entered as Phone on the Payment detail page
+2015-11-02 17:52:27,791 INFO t.j.u.Log [main] Same as Billing address check box on Payment Details page is found.
+2015-11-02 17:52:27,806 INFO t.j.u.Log [main] Same as Billing address check box on Payment Details page is found.
+2015-11-02 17:52:27,876 INFO t.j.u.Log [main] Same as Billing address check box is selected on the Payment detail page
+2015-11-02 17:52:27,896 INFO t.j.u.Log [main] Purchase button on Payment Details page is found.
+2015-11-02 17:52:43,830 INFO t.j.u.Log [main] Click action is performed on Purchase button on the Payment detail page
+2015-11-02 17:52:43,892 INFO t.j.u.Log [main] Product name is found on the Confirmation Page
+2015-11-02 17:52:44,053 INFO t.j.u.Log [main] Product price is found on the Confirmation Page
+2015-11-02 17:52:44,287 INFO t.j.u.Log [main] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2015-11-02 17:52:44,288 INFO t.j.u.Log [main] X
+2015-11-02 17:52:44,288 INFO t.j.u.Log [main] X
+2015-11-02 17:52:44,289 INFO t.j.u.Log [main] X
+2015-11-02 17:52:44,289 INFO t.j.u.Log [main] X
+2015-11-02 17:53:16,250 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:53:16,252 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:53:16,252 INFO t.j.u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_001       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 17:53:16,253 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:53:16,253 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:53:16,428 INFO t.j.u.Log [main] Excel sheet opened
+2015-11-02 17:53:16,429 INFO t.j.u.Log [main] Total number of Row used return as < 2 >.
+2015-11-02 17:53:19,951 INFO t.j.u.Log [main] New driver instantiated
+2015-11-02 17:53:33,100 INFO t.j.u.Log [main] Maximize the browser window
+2015-11-02 17:53:41,077 INFO t.j.u.Log [main] Implicit wait applied on the driver for 10 seconds
+2015-11-02 17:53:54,932 INFO t.j.u.Log [main] Web application launched successfully
+2015-11-02 17:53:55,132 INFO t.j.u.Log [main] My Account link is found on the Home Page
+2015-11-02 17:54:00,365 INFO t.j.u.Log [main] Click action is perfromed on My Account link
+2015-11-02 17:54:00,413 INFO t.j.u.Log [main] Username text box is found on the Login Page
+2015-11-02 17:54:00,587 INFO t.j.u.Log [main] richardli1981@gmail.com is entered in UserName text box
+2015-11-02 17:54:00,665 INFO t.j.u.Log [main] Password text box is found on the Login page
+2015-11-02 17:54:00,737 INFO t.j.u.Log [main] Ethoca@Richard is entered in Password text box
+2015-11-02 17:54:00,758 INFO t.j.u.Log [main] Submit button is found on the Login page
+2015-11-02 17:54:00,863 INFO t.j.u.Log [main] Click action is performed on Submit button
+2015-11-02 17:54:07,238 INFO t.j.u.Log [main] Log Out link is found on the Home Page
+2015-11-02 17:54:08,949 INFO t.j.u.Log [main] Product category link is found under Top Navigation
+2015-11-02 17:54:09,133 INFO t.j.u.Log [main] iMacs link is found under Product Category
+2015-11-02 17:54:09,378 INFO t.j.u.Log [main] Click action is performed on the selected Product Type
+2015-11-02 17:54:09,379 INFO t.j.u.Log [main] Product Type iMacs is selected from the Top menu
+2015-11-02 17:54:12,031 INFO t.j.u.Log [main] Add to Cart button is found for Product 1
+2015-11-02 17:54:12,328 INFO t.j.u.Log [main] Product 1 is selected from the Product listing page
+2015-11-02 17:54:13,579 INFO t.j.u.Log [main] Go to Cart button is found on the Cart Pop Up window
+2015-11-02 17:54:20,143 INFO t.j.u.Log [main] Product Name for purchased product is found on the Check Out Page
+2015-11-02 17:54:20,226 INFO t.j.u.Log [main] Product Price for purchased product is found on the Check Out Page
+2015-11-02 17:54:20,300 INFO t.j.u.Log [main] Continue button is found on the Check Out Page
+2015-11-02 17:54:20,431 INFO t.j.u.Log [main] Email text box on Payment Details page is found.
+2015-11-02 17:54:23,240 INFO t.j.u.Log [main] Email text box on Payment Details page is found.
+2015-11-02 17:54:23,447 INFO t.j.u.Log [main] tooolsqa@gmail.com is entered as First Name on the Payment detail page
+2015-11-02 17:54:23,473 INFO t.j.u.Log [main] First Name text box on Payment Details page is found.
+2015-11-02 17:54:23,552 INFO t.j.u.Log [main] First Name text box on Payment Details page is found.
+2015-11-02 17:54:23,595 INFO t.j.u.Log [main] Akshay is entered as First Name on the Payment detail page
+2015-11-02 17:54:23,612 INFO t.j.u.Log [main] Last Name text box on Payment Details page is found.
+2015-11-02 17:54:23,654 INFO t.j.u.Log [main] Last Name text box on Payment Details page is found.
+2015-11-02 17:54:23,693 INFO t.j.u.Log [main] Sharma is entered as Last Name on the Payment detail page
+2015-11-02 17:54:23,703 INFO t.j.u.Log [main] Address text box on Payment Details page is found.
+2015-11-02 17:54:23,747 INFO t.j.u.Log [main] Address text box on Payment Details page is found.
+2015-11-02 17:54:23,806 INFO t.j.u.Log [main] 22, LimeSquare, City Road is entered as Address on the Payment detail page
+2015-11-02 17:54:23,815 INFO t.j.u.Log [main] City text box on Payment Details page is found.
+2015-11-02 17:54:23,854 INFO t.j.u.Log [main] City text box on Payment Details page is found.
+2015-11-02 17:54:23,901 INFO t.j.u.Log [main] Newcastle is entered as City on the Payment detail page
+2015-11-02 17:54:23,929 INFO t.j.u.Log [main] Country dropdown on Payment Details page is found.
+2015-11-02 17:54:23,955 INFO t.j.u.Log [main] United Kingdom is Selected as Country on the Payment detail page
+2015-11-02 17:54:23,963 INFO t.j.u.Log [main] Phone text box on Payment Details page is found.
+2015-11-02 17:54:23,997 INFO t.j.u.Log [main] Phone text box on Payment Details page is found.
+2015-11-02 17:54:24,041 INFO t.j.u.Log [main] 07777777777 is entered as Phone on the Payment detail page
+2015-11-02 17:54:24,050 INFO t.j.u.Log [main] Same as Billing address check box on Payment Details page is found.
+2015-11-02 17:54:24,071 INFO t.j.u.Log [main] Same as Billing address check box on Payment Details page is found.
+2015-11-02 17:54:24,139 INFO t.j.u.Log [main] Same as Billing address check box is selected on the Payment detail page
+2015-11-02 17:54:24,156 INFO t.j.u.Log [main] Purchase button on Payment Details page is found.
+2015-11-02 17:54:34,265 INFO t.j.u.Log [main] Click action is performed on Purchase button on the Payment detail page
+2015-11-02 17:54:34,285 INFO t.j.u.Log [main] Product name is found on the Confirmation Page
+2015-11-02 17:54:34,324 INFO t.j.u.Log [main] Product price is found on the Confirmation Page
+2015-11-02 17:54:34,395 INFO t.j.u.Log [main] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2015-11-02 17:54:34,396 INFO t.j.u.Log [main] X
+2015-11-02 17:54:34,396 INFO t.j.u.Log [main] X
+2015-11-02 17:54:34,397 INFO t.j.u.Log [main] X
+2015-11-02 17:54:34,397 INFO t.j.u.Log [main] X
+2015-11-02 17:54:34,414 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:54:34,414 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:54:34,415 INFO t.j.u.Log [main] $$$$$$$$$$$$$$$$$$$$$                 TestFramework_002       $$$$$$$$$$$$$$$$$$$$$$$$$
+2015-11-02 17:54:34,415 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:54:34,415 INFO t.j.u.Log [main] ****************************************************************************************
+2015-11-02 17:54:34,422 INFO t.j.u.Log [main] Excel sheet opened
+2015-11-02 17:54:34,422 INFO t.j.u.Log [main] Total number of Row used return as < 2 >.
+2015-11-02 17:54:37,587 INFO t.j.u.Log [main] New driver instantiated
+2015-11-02 17:54:52,788 INFO t.j.u.Log [main] Maximize the browser window
+2015-11-02 17:54:52,808 INFO t.j.u.Log [main] Implicit wait applied on the driver for 10 seconds
+2015-11-02 17:55:04,655 INFO t.j.u.Log [main] Web application launched successfully
+2015-11-02 17:55:04,841 INFO t.j.u.Log [main] My Account link is found on the Home Page
+2015-11-02 17:55:05,053 INFO t.j.u.Log [main] Click action is perfromed on My Account link
+2015-11-02 17:55:12,971 INFO t.j.u.Log [main] Username text box is found on the Login Page
+2015-11-02 17:55:13,049 INFO t.j.u.Log [main] richardli1981@gmail.com is entered in UserName text box
+2015-11-02 17:55:13,064 INFO t.j.u.Log [main] Password text box is found on the Login page
+2015-11-02 17:55:13,121 INFO t.j.u.Log [main] Ethoca@Richard is entered in Password text box
+2015-11-02 17:55:13,132 INFO t.j.u.Log [main] Submit button is found on the Login page
+2015-11-02 17:55:13,249 INFO t.j.u.Log [main] Click action is performed on Submit button
+2015-11-02 17:55:19,461 INFO t.j.u.Log [main] Log Out link is found on the Home Page
+2015-11-02 17:55:22,975 INFO t.j.u.Log [main] Product category link is found under Top Navigation
+2015-11-02 17:55:23,165 INFO t.j.u.Log [main] iMacs link is found under Product Category
+2015-11-02 17:55:23,302 INFO t.j.u.Log [main] Click action is performed on the selected Product Type
+2015-11-02 17:55:23,303 INFO t.j.u.Log [main] Product Type iMacs is selected from the Top menu
+2015-11-02 17:55:29,810 INFO t.j.u.Log [main] Add to Cart button is found for Product 1
+2015-11-02 17:55:30,118 INFO t.j.u.Log [main] Product 1 is selected from the Product listing page
+2015-11-02 17:55:32,262 INFO t.j.u.Log [main] Go to Cart button is found on the Cart Pop Up window
+2015-11-02 17:55:56,262 INFO t.j.u.Log [main] Go to Cart button is not found on the Cart Pop Up window
+2015-11-02 17:55:56,680 ERROR t.j.u.Log [main] Unable to locate element: {"method":"class name","selector":"go_to_checkout"}
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'Richard', ip: '192.168.138.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 34723239-9c8e-45d2-b0db-161e53fb4006
+*** Element info: {Using=class name, value=go_to_checkout}
+2015-11-02 17:55:56,691 INFO t.j.u.Log [main] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2015-11-02 17:55:56,692 INFO t.j.u.Log [main] X
+2015-11-02 17:55:56,692 INFO t.j.u.Log [main] X
+2015-11-02 17:55:56,693 INFO t.j.u.Log [main] X
+2015-11-02 17:55:56,693 INFO t.j.u.Log [main] X

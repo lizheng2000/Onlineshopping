@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="1" name="TestSuite" time="91.499" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_45\jre\bin"/>
+    <property name="java.vm.version" value="25.45-b02"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Li\JavaWorkSpace\Onlineshopping"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Li\JavaWorkSpace\Onlineshopping"/>
+    <property name="java.runtime.version" value="1.8.0_45-b14"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Li\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="classworlds.conf" value="C:\Users\Li\JavaWorkSpace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2250390777996878161.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_45\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_60/bin/server;C:/Program Files/Java/jre1.8.0_60/bin;C:/Program Files/Java/jre1.8.0_60/lib/amd64;C:\instantclient-basic-nt-12.1.0.2.0;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\Calibre2\;C:\Users\Li\AppData\Local\Android\android-sdk\build-tools\android-5.1.1\;C:\Users\Li\AppData\Local\Android\android-sdk\tools;C:\Users\Li\AppData\Local\Android\android-sdk\platform-tools;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Lenovo\Password Manager\;C:\Program Files\nodejs\;C:\Program Files (x86)\Skype\Phone;C:\Program Files\Java\jdk1.8.0_45\bin;C:\Program Files\Java\jdk1.8.0_45\jre\bin;C:\Program Files (x86)\Appium\node_modules\.bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\apache-maven-3.3.3\bin;C:\Program Files\Java\jdk1.8.0_45\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Li\AppData\Roaming\npm;C:\Program Files\apache-maven-3.3.3;C:\Users\Li\Documents\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\Li"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Li"/>
+    <property name="java.class.path" value="/C:/Users/Li/Documents/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_45\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -s C:\Program Files\apache-maven-3.3.3\conf\settings.xml test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_45"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_45\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\Li\JavaWorkSpace\Onlineshopping\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="test.java.testCases.TestFramework_001" name="main" time="39.461"/>
+  <testcase classname="test.java.testCases.TestFramework_002" name="f" time="52.038">
+    <failure message="Unable to locate element: {&quot;method&quot;:&quot;class name&quot;,&quot;selector&quot;:&quot;go_to_checkout&quot;}
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.48.2&apos;, revision: &apos;41bccdd10cf2c0560f637404c2d96164b67d9d67&apos;, time: &apos;2015-10-09 13:08:06&apos;
+System info: host: &apos;Richard&apos;, ip: &apos;192.168.138.1&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 34723239-9c8e-45d2-b0db-161e53fb4006
+*** Element info: {Using=class name, value=go_to_checkout}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;class name&quot;,&quot;selector&quot;:&quot;go_to_checkout&quot;}
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.48.2&apos;, revision: &apos;41bccdd10cf2c0560f637404c2d96164b67d9d67&apos;, time: &apos;2015-10-09 13:08:06&apos;
+System info: host: &apos;Richard&apos;, ip: &apos;192.168.138.1&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 34723239-9c8e-45d2-b0db-161e53fb4006
+*** Element info: {Using=class name, value=go_to_checkout}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:647)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:467)
+	at org.openqa.selenium.By$ByClassName.findElement(By.java:391)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:345)
+	at test.java.pageObjects.ProductListing_Page$PopUpAddToCart.btn_GoToCart(ProductListing_Page.java:134)
+	at test.java.testCases.TestFramework_002.f(TestFramework_002.java:43)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;class name&quot;,&quot;selector&quot;:&quot;go_to_checkout&quot;}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.48.2&apos;, revision: &apos;41bccdd10cf2c0560f637404c2d96164b67d9d67&apos;, time: &apos;2015-10-09 13:08:06&apos;
+System info: host: &apos;Richard&apos;, ip: &apos;192.168.138.1&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/Li/AppData/Local/Temp/anonymous3406990483298765207webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10659)
+	at &lt;anonymous class&gt;.fxdriver.Timer.prototype.setTimeout/&lt;.notify(file:///C:/Users/Li/AppData/Local/Temp/anonymous3406990483298765207webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:621)
+</failure>
+    <system-out>17:54:34.395 [main] INFO  test.java.utility.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:54:34.396 [main] INFO  test.java.utility.Log - X
+17:54:34.396 [main] INFO  test.java.utility.Log - X
+17:54:34.397 [main] INFO  test.java.utility.Log - X
+17:54:34.397 [main] INFO  test.java.utility.Log - X
+17:54:34.414 [main] INFO  test.java.utility.Log - ****************************************************************************************
+17:54:34.414 [main] INFO  test.java.utility.Log - ****************************************************************************************
+17:54:34.415 [main] INFO  test.java.utility.Log - $$$$$$$$$$$$$$$$$$$$$                 TestFramework_002       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:54:34.415 [main] INFO  test.java.utility.Log - ****************************************************************************************
+17:54:34.415 [main] INFO  test.java.utility.Log - ****************************************************************************************
+17:54:34.422 [main] INFO  test.java.utility.Log - Excel sheet opened
+17:54:34.422 [main] INFO  test.java.utility.Log - Total number of Row used return as &lt; 2 &gt;.
+17:54:37.587 [main] INFO  test.java.utility.Log - New driver instantiated
+17:54:52.788 [main] INFO  test.java.utility.Log - Maximize the browser window
+17:54:52.808 [main] INFO  test.java.utility.Log - Implicit wait applied on the driver for 10 seconds
+17:55:04.655 [main] INFO  test.java.utility.Log - Web application launched successfully
+17:55:04.841 [main] INFO  test.java.utility.Log - My Account link is found on the Home Page
+17:55:05.053 [main] INFO  test.java.utility.Log - Click action is perfromed on My Account link
+17:55:12.971 [main] INFO  test.java.utility.Log - Username text box is found on the Login Page
+17:55:13.049 [main] INFO  test.java.utility.Log - richardli1981@gmail.com is entered in UserName text box
+17:55:13.064 [main] INFO  test.java.utility.Log - Password text box is found on the Login page
+17:55:13.121 [main] INFO  test.java.utility.Log - Ethoca@Richard is entered in Password text box
+17:55:13.132 [main] INFO  test.java.utility.Log - Submit button is found on the Login page
+17:55:13.249 [main] INFO  test.java.utility.Log - Click action is performed on Submit button
+17:55:19.461 [main] INFO  test.java.utility.Log - Log Out link is found on the Home Page
+17:55:22.975 [main] INFO  test.java.utility.Log - Product category link is found under Top Navigation
+17:55:23.165 [main] INFO  test.java.utility.Log - iMacs link is found under Product Category
+17:55:23.302 [main] INFO  test.java.utility.Log - Click action is performed on the selected Product Type
+17:55:23.303 [main] INFO  test.java.utility.Log - Product Type iMacs is selected from the Top menu
+17:55:29.810 [main] INFO  test.java.utility.Log - Add to Cart button is found for Product 1
+17:55:30.118 [main] INFO  test.java.utility.Log - Product 1 is selected from the Product listing page
+17:55:32.262 [main] INFO  test.java.utility.Log - Go to Cart button is found on the Cart Pop Up window
+17:55:56.262 [main] INFO  test.java.utility.Log - Go to Cart button is not found on the Cart Pop Up window
+17:55:56.680 [main] ERROR test.java.utility.Log - Unable to locate element: {&quot;method&quot;:&quot;class name&quot;,&quot;selector&quot;:&quot;go_to_checkout&quot;}
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.48.2&apos;, revision: &apos;41bccdd10cf2c0560f637404c2d96164b67d9d67&apos;, time: &apos;2015-10-09 13:08:06&apos;
+System info: host: &apos;Richard&apos;, ip: &apos;192.168.138.1&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 34723239-9c8e-45d2-b0db-161e53fb4006
+*** Element info: {Using=class name, value=go_to_checkout}
+</system-out>
+  </testcase>
+</testsuite>
